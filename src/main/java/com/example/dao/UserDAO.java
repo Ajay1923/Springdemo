@@ -1,4 +1,4 @@
-package com.example.css;
+package com.example.dao;
 
 import org.springframework.data.repository.CrudRepository;
 
