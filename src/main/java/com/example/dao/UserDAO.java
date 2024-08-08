@@ -4,7 +4,7 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.example.model.User;
 
-public interface UserCSS extends CrudRepository<User, Integer>{
+public interface UserDAO extends CrudRepository<User, Integer>{
 
 
 
