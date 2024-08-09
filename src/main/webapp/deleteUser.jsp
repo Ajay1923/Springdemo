@@ -7,7 +7,7 @@
 			   <center>  <p> I am  delighted to have you here !</p></center>
 			   
 			<h3>Deleted User Information</h2>
-            ${user} details were successfully deleted
+                        ${user} details were successfully deleted
 						  
 			   
 
