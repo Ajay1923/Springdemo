@@ -20,7 +20,7 @@
 				<input type ="submit"> <br>	
 				</form>
 
-               <h3>Enter Details to Delete</h2>
+                           <h3>Enter Details to Delete</h2>
 
 			   <form action ="addUser">
 				Enter ID<input type ="text"  name = "id" <br>
