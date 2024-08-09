@@ -12,7 +12,7 @@
 				<input type ="submit"> <br>	
 				</form>
 
-				<h3>Display User Information</h2>
+			   <h3>Display User Information</h2>
 
 			   <form action ="getUser">
 				Enter ID<input type ="text"  name = "id" <br>
